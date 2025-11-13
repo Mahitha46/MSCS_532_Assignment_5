@@ -29,9 +29,9 @@ Implementation Details
 ### Deterministic Quicksort
 - Uses the **last element** as the pivot.
 - Recursively sorts elements less than and greater than the pivot.
-- Performs poorly on **sorted** or **reverse-sorted** data (worst-case \(O(n^2)\)).
+- Performs poorly on **sorted** or **reverse-sorted** data (worst-case (O(n^2)).
 
-File: `deterministic_quicksort.py`
+File: deterministic_quicksort.py
 
 ## Randomized Quicksort
 
@@ -41,7 +41,7 @@ File: `deterministic_quicksort.py`
 
 - Maintains expected O(nlogn) time for all input distributions.
 
-File: 'randomized_quicksort.py'
+File: randomized_quicksort.py
 
 Empirical Performance Analysis
 ## Experiment Script
