@@ -15,9 +15,13 @@ This assignment demonstrates how pivot selection impacts Quicksort’s efficienc
 
 ## Repository Structure
 ├── deterministic_quicksort.py # Deterministic Quicksort implementation (pivot = last element)
+
 ├── randomized_quicksort.py # Randomized Quicksort implementation (pivot = random)
+
 ├── performance_comparison.py # Safe empirical performance test script with graphs
+
 ├── Assignmnent 5 Report.docx # Detailed technical report and analysis
+
 ├── README.md # Instructions on how to run
 
 Implementation Details
